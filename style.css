@@ -1,0 +1,119 @@
+<style>
+    header {
+      height: 50px;
+      margin: 10px 0 10px 0;
+    }
+    div.index {
+      text-align: center;
+      background: url('https://i.imgur.com/ESJL56E.jpg');
+      background-size: cover;
+      color: white;
+      height: 400px;
+      margin: -45px 30px 0 30px;
+      text-decoration-style: bold;
+    }
+    div.testimonials {
+      text-align: center;
+      background: url('https://i.imgur.com/BoWkzCL.jpg');
+      background-size: cover;
+      color: white;
+      height: 400px;
+      margin: -45px 30px 0 30px;
+    }
+    div.blog {
+      text-align: center;
+      background: url('https://i.imgur.com/S7aEwmh.jpg');
+      background-size: cover;
+      color: white;
+      height: 400px;
+      margin: -45px 30px 0 30px;
+    }
+    div.our_services {
+      text-align: center;
+      background: url('https://i.imgur.com/fWUC4ih.jpg');
+      background-size: cover;
+      color: white;
+      height: 400px;
+      margin: -45px 30px 0 30px;
+    }
+    h1 {
+font-family: 'Cinzel', serif;
+      font-size: 50px;
+      padding: 280px 0 0 0;
+    }
+    h2 {
+      text-align: center;
+      font-size: 15px;
+    font-family: 'Cinzel', serif;
+      padding: 5px 0 15px 0;
+      color: gray;
+
+    }
+    h3 {
+      font-size: 15px;
+      margin: 0;
+      text-align: center;
+    }
+    h4 {
+     font-size: 20px;
+      margin: 20px 0 10px 0;
+      text-align: left;
+      font-family: 'Cinzel', serif;
+      font-style: bold;
+    }
+    h5 {
+      font-size: 15px;
+   font-family: 'Cardo', serif;
+    }
+    img {
+      margin: 10px 10px 0px 0px;
+      max-width: 200px;
+    }
+     
+    li {
+      display: inline;
+      padding: 0 0 0 80px;
+      text-align: center;
+      color: gray;
+    }
+    ul {
+      text-align: center; 
+          }
+    ol {
+      text-align: left;
+    }
+    article {
+      max-width: 550px;
+      padding: 0;
+      margin: 5px auto; 
+      text-align: justify;
+      font-family: kalinga;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 15px;
+      display: inline;
+      margin: 0;
+      border: 3px solid #666666;
+    }
+    input[type="submit"] {
+      background: #666666;
+      color: white;
+      border: 3px solid white;
+    }
+    a {
+      text-align: center;
+      color: #666666;
+      padding: 0 5px 0 0;
+      font-family: 'Cinzel', serif;
+      }
+    footer {
+      text-align: center;
+      color: grey; 
+      padding: 40px;
+    }
+    small {
+      font-style: italic;
+    }
+    </style>
